@@ -1,0 +1,78 @@
+/* Basic body styles */
+body {
+    font-family: Arial, sans-serif; /* Set a common font */
+    line-height: 1.6; /* Improve readability */
+    margin: 0; /* Remove default body margin */
+    padding: 20px; /* Add some padding around the content */
+    background-color: #f4f4f4; /* Light background color */
+    color: #333; /* Darker text color */
+}
+
+/* Container for main content */
+.container {
+    max-width: 800px; /* Limit content width */
+    margin: 20px auto; /* Center the container horizontally */
+    padding: 25px;
+    background-color: #fff; /* White background for the content box */
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
+/* Headings styles */
+h1 {
+    color: #2c3e50; /* Dark blue for main heading */
+    text-align: center; /* Center the main heading */
+    margin-bottom: 30px;
+    border-bottom: 2px solid #3498db; /* Underline effect */
+    padding-bottom: 10px;
+}
+
+h2 {
+    color: #34495e; /* Slightly lighter blue for subheadings */
+    margin-top: 40px;
+}
+
+h3 {
+    color: #27ae60; /* Green for smaller headings */
+}
+
+/* Paragraph styles */
+p {
+    margin-bottom: 15px; /* Space between paragraphs */
+}
+
+/* Image styles */
+img {
+    max-width: 100%; /* Ensure image doesn't overflow its container */
+    height: auto; /* Maintain aspect ratio */
+    display: block; /* Remove extra space below image */
+    margin: 20px auto; /* Center image */
+    border: 3px solid #ddd; /* Light border */
+    border-radius: 5px; /* Slightly rounded corners */
+}
+
+.image-heading {
+    text-align: center; /* Center the heading above the image */
+}
+
+/* Link styles */
+a {
+    color: #3498db; /* Blue color for links */
+    text-decoration: none; /* Remove underline */
+}
+
+a:hover {
+    text-decoration: underline; /* Add underline on hover */
+    color: #2980b9; /* Slightly darker blue on hover */
+}
+
+/* List styles */
+ul {
+    list-style-type: square; /* Change list bullet style */
+    margin-left: 25px; /* Indent list items */
+    padding: 0;
+}
+
+li {
+    margin-bottom: 8px; /* Space between list items */
+}
