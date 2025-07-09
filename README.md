@@ -52,7 +52,7 @@ task-1/
 
 ## 📧 Connect with Me
 Feel free to connect or reach out:
-- 📬 Email: lekhasree0910@gmail.com (mailto:lekhasree0910@gmail.com)
+- 📬 Email: lekhasree0910@gmail.com 
 
 ---
 
